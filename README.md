@@ -1,6 +1,6 @@
 ## 📱 Project: Alubank
 
-* An application of a Personal Diary, which records daily entries of the person using the application \0/
+* An implementation of the user interface home page of an internet banking app \0/
 
 ## 🏳️ Status
 
@@ -30,7 +30,7 @@
 **The main features of the application are:**
  * Only interface
  
- ![Animated GIF demonstrating project features](https://github.com/amon-mn/simple_journal_webapi/blob/aacd422b3e1dba979d71cdbd074f9a401b66ab3d/lib/assets/simple_journal.gif)
+ ![Animated GIF demonstrating project features]()
  
  
  ## 🔗 Links
