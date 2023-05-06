@@ -30,7 +30,7 @@
 **The main features of the application are:**
  * Only interface
  
- ![Animated GIF demonstrating project features]()
+ ![Animated GIF demonstrating project features](https://github.com/amon-mn/alubank_mockup/blob/1191a2c43ddb757a055efe987a2880540c82a402/alubank_mockup.gif)
  
  
  ## 🔗 Links
